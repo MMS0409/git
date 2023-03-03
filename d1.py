@@ -78,3 +78,4 @@ class Core:
                 print(err)
             else:
                 self.conn.commit()
+# git hubdan ozgartrdm
